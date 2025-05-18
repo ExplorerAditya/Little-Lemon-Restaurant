@@ -1,7 +1,6 @@
 #  About Little-Lemon-Restaurant
 Little Lemon is a fictional Mediterranean restaurant used as a real-world business case in Coursera’s Meta developer courses. The project involves creating an online system where customers can book tables, view the menu, and interact with the restaurant through a responsive web interface.
 
-Here's a simple example of a README file for the "Little Lemon Restaurant" project. You can adjust it as per the specific details of the project.
 
 ---
 
@@ -76,9 +75,6 @@ We welcome contributions! Feel free to fork the repository and submit pull reque
 3. Make your changes
 4. Open a pull request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
 
